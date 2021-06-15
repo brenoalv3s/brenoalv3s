@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Breno Alves</h1>
-<h3 align="center">Desenvolvedor Full Stack</h3>
+<h3 align="center">QA Analyst e Desenvolvedor Full Stack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brenoalv3s&label=Profile%20views&color=0e75b6&style=flat" alt="brenoalv3s" /> </p>
 
